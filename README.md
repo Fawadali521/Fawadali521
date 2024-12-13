@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fawad Ali</h1>
-<h3 align="center">Flutter Developer 👨‍💻 | BSCS 🎓 | Seeking New Opportunities 🌟| BLoc, Provider, GetX🚀 |RESTful APIs🌟 | Firebase 🔥</h3>
+<h3 align="center">Flutter Developer 👨‍💻 | Computer Systems Engineer 🎓 | FPGA | Embedded Systems | WordPress | Management| Seeking New Opportunities 🌟| BLoc, Provider, GetX🚀 |RESTful APIs🌟 | Firebase 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FawadAli521&label=Profile%20views&color=0e75b6&style=flat" alt="FawadAli521" /> </p>
 
@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/itz.baid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz.baid" height="30" width="40" /></a>
- <a href="https://wa.me/923409421345" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/27/03/07/whatsapp-1623579_960_720.png" alt="itz.baid" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006902837769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz.baid" height="30" width="40" /></a>
+ <a href="https://wa.me/923489058521" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/27/03/07/whatsapp-1623579_960_720.png" alt="itz.baid" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
