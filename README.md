@@ -1,23 +1,112 @@
 <h1 align="center">Hi 👋, I'm Fawad Ali</h1>
-<h3 align="center">Flutter Developer 👨‍💻 | Data Scientist |Chat Bot | Machine Learning Engineer | AI | Computer Systems Engineer 🎓 | FPGA | Embedded Systems | WordPress | Management| Seeking New Opportunities 🌟| BLoc, Provider, GetX🚀 |RESTful APIs🌟 | Firebase 🔥</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FawadAli521&label=Profile%20views&color=0e75b6&style=flat" alt="FawadAli521" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FawadAli521" alt="FawadAli521" /></a> </p>
-
-- 📫 How to reach me *fawadali1845@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100006902837769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz.baid" height="30" width="40" /></a>
- <a href="https://wa.me/923489058521" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/27/03/07/whatsapp-1623579_960_720.png" alt="itz.baid" height="30" width="30" /></a>
+<p align="center">
+🚀 Flutter Developer | 👨‍💻 Software Engineer | 🧠 Machine Learning Engineer | 📊 Data Scientist | 🤖 Chatbot Developer | 👥 Team Lead
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
+<p align="center">
+Computer Systems Engineer 🎓 | AI & Data Enthusiast | Mobile & Intelligent Systems | Seeking New Opportunities 🌟
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FawadAli521&show_icons=true&locale=en&layout=compact" alt="FawadAli521" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FawadAli521&show_icons=true&locale=en" alt="FawadAli521" /></p>
+<p align="center">
+  <a href="https://engrfawad.vercel.app/" target="_blank">
+    🌐 <strong>My Portfolio Website</strong>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FawadAli521&" alt="FawadAli521" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FawadAli521&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FawadAli521&theme=flat&margin-w=10" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 **Email:** fawadali1845@gmail.com  
+- 🌐 **Portfolio:** https://engrfawad.vercel.app/
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.facebook.com/profile.php?id=100006902837769">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  </a>
+  <a href="https://wa.me/923489058521">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+- 💼 **Flutter Developer & Software Engineer** with 5+ years of experience  
+- 👥 **Team Lead** for mobile & AI-driven applications  
+- 🤖 Expert in **Chatbots, AI, and OpenAI APIs**  
+- 📊 Strong background in **Machine Learning & Data Science**  
+- 🧪 Programming in **Python & R for ML/Data Analysis**  
+- 🔗 RESTful APIs, Firebase, Supabase, Stripe, Cloud Services  
+- 🌍 Open to **remote & international opportunities**
+
+---
+
+## 💻 Languages & Tools
+<p align="left">
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
+
+  <!-- Frameworks -->
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+
+  <!-- ML & Data Science -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FawadAli521&show_icons=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawadAli521&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FawadAli521"/>
+</p>
+
+---
+
+## 🚀 What I’m Working On
+- 📱 AI-powered **Flutter mobile applications**
+- 🤖 **Chatbots** using NLP & OpenAI
+- 📊 **Machine Learning & Data Science projects**
+- 🧠 Intelligent automation systems
+- 🌐 Full-stack mobile & cloud solutions
+
+---
+
+⭐ **Explore my repositories, visit my portfolio, and feel free to connect!**
