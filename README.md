@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fawad Ali</h1>
-<h3 align="center">Flutter Developer 👨‍💻 | Computer Systems Engineer 🎓 | FPGA | Embedded Systems | WordPress | Management| Seeking New Opportunities 🌟| BLoc, Provider, GetX🚀 |RESTful APIs🌟 | Firebase 🔥</h3>
+<h3 align="center">Flutter Developer 👨‍💻 | Data Scientist |Chat Bot | Machine Learning Engineer | AI | Computer Systems Engineer 🎓 | FPGA | Embedded Systems | WordPress | Management| Seeking New Opportunities 🌟| BLoc, Provider, GetX🚀 |RESTful APIs🌟 | Firebase 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FawadAli521&label=Profile%20views&color=0e75b6&style=flat" alt="FawadAli521" /> </p>
 
